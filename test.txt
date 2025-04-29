@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 12
+=======
+asdasdasadasdasdsasdada
+\dasdasd
+asdasdasadasdasdsasdada
+lorem*21
+>>>>>>> refs/remotes/origin/main
