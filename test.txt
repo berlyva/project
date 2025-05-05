@@ -1,5 +1,15 @@
+<<<<<<< HEAD
+12asdasdasdasdas
+=======
 asdasdasadasdasdsasdada
+<<<<<<< HEAD
+\dasdasd
+asdasdasadasdasdsasdada
+lorem*21asdasdas
+>>>>>>> refs/remotes/origin/main
+=======
 \dasdasdasdsadasdsa
 asdasdasadasdasdsasdasdsadsaddada
 lorem*21
 test
+>>>>>>> rahsya
